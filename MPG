@@ -1,0 +1,9 @@
+#include <iostream>
+
+
+
+int main () {
+int gallons = 15, miles = 375;
+std::cout << miles/gallons;
+
+}
