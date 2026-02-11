@@ -4,6 +4,6 @@
 
 int main () {
 int gallons = 15, miles = 375;
-std::cout << miles/gallons;
-
+int MPG = miles/gallons;
+std::cout << "The miles per gallon is " << MPG;
 }
