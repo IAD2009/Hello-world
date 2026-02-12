@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+int gastank = 20, MPGt = 23.5, MPGh = 28.9;
+int DistanceT = 20 * 23.5 ;
+int DistanceH = 20 * 28.9 ;
+std::cout << "Distance for one tank of gas in a town is " << DistanceT << " and the distance for one tank on the highway is " << DistanceH;
+}
