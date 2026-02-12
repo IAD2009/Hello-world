@@ -1,0 +1,12 @@
+#include <iostream>
+#include <string>
+
+int main() {
+std::string Name = "I am Ilyas Devaux\n";
+std::string address = "My address is 67 Alabama Ave, NJ, 012345\n";
+std::string number = "My phone number is 123-456-7890\n";
+std::string goal = "My future major in college will be Robotics and Automation hopefully!\n";
+std::cout << Name << address << number << goal;
+
+    return 0;
+}
