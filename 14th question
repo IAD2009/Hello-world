@@ -3,9 +3,13 @@
 
 int main() {
 std::string Name = "I am Ilyas Devaux\n";
+//This statement says your name
 std::string address = "My address is 67 Alabama Ave, NJ, 012345\n";
+//This statement says your address
 std::string number = "My phone number is 123-456-7890\n";
+//This one says your number 
 std::string goal = "My future major in college will be Robotics and Automation hopefully!\n";
+// This one says what you're majoring in college 
 std::cout << Name << address << number << goal;
 
     return 0;
