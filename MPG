@@ -4,6 +4,8 @@
 
 int main () {
 int gallons = 15, miles = 375;
+//The problem is asking to find the miles per gallon if the car goes 375 miles on 15 gallons of gas
 int MPG = miles/gallons;
+//MPG is Miles per gallon
 std::cout << "The miles per gallon is " << MPG;
 }
